@@ -79,8 +79,8 @@ li a:hover::before{
     display: none;
 }
 section{
-    min-height: 200vh;
-    padding: 8rem 12%;
+    min-height: 100vh;
+    padding: 18rem 12%;
     width: 100%;
     position: relative;
 }
