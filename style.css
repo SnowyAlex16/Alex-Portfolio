@@ -80,7 +80,7 @@ li a:hover::before{
 }
 section{
     min-height: 100vh;
-    padding: 18rem 12%;
+    padding: 8rem 12%;
     width: 100%;
     position: relative;
 }
