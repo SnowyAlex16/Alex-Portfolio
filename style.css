@@ -374,6 +374,9 @@ footer ul li a{
         border-radius: 3rem;
         display: none;
     }
+    .fa-envelop{
+        transform: scale(0.9);
+    }
     .nav-links li{
         margin-top: 1.5rem;
         padding: 1rem;
