@@ -267,7 +267,9 @@ section{
     font-size: 3rem;
 }
 .input{
+    align-items: center;
     position: relative;
+    border: 2px solid black;
 }
 .input i{
     position: absolute;
