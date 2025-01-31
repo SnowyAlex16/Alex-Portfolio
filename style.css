@@ -208,7 +208,7 @@ section{
 }
 .projects-grid{
     display: grid;
-    grid-template-columns: repeat(2,2);
+    grid-template-columns: repeat(2,1fr);
     gap: 2rem;
 }
 .project-card{
