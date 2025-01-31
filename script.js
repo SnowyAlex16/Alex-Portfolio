@@ -7,5 +7,5 @@ menuIcon.onclick = () => {
 }
 
 function toGraphicsYt(){
-    window.open('')
+    window.open('https://youtu.be/l84rPQ4s50o')
 }
