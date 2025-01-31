@@ -1,5 +1,4 @@
-import axios from "axios"
-import download from "downloadjs"
+
 
 const menuIcon = document.querySelector('#menu-icon')
 const navLinks = document.querySelector('.nav-links')
@@ -9,19 +8,19 @@ menuIcon.onclick = () => {
     navLinks.classList.toggle('active')
 }
 
-function toGraphicsYt(){
-    const url = 'https://youtu.be/l84rPQ4s50o';
+function toGraphicsYt1(){
+    const url = 'https://youtu.be/l84rPQ4s50o'
+    window.open(url)
+}
+function toCYt(){
+    const url = 'https://youtu.be/l84rPQ4s50o'
     window.open(url);
 }
-function toGraphicsYt(){
-    const url = 'https://youtu.be/l84rPQ4s50o';
-    window.open(url);
+function toItch(){
+    const url = 'https://youtu.be/l84rPQ4s50o'
+    window.open(url)
 }
-function toGraphicsYt(){
-    const url = 'https://youtu.be/l84rPQ4s50o';
-    window.open(url);
-}
-export const DownloadCV = async () => {
+function DownloadCV() {
     const url = `Alexandre Kouda.pdf`
-    window.open(url);
+    window.open(url)
 }
