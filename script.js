@@ -9,12 +9,12 @@ menuIcon.onclick = () => {
 }
 
 function DownloadCV() {
-    const url = `Alexandre Kouda.pdf`
-    window.open(url)
+    const url = `Alexandre Kouda.pdf`;
+    window.open(url);
 }
 function toGraphicsYt1{
-    const url = 'https://youtu.be/l84rPQ4s50o'
-    window.open(url)
+    const url = 'https://youtu.be/l84rPQ4s50o';
+    window.open(url);
 }
 function toItch{
     const url = 'https://the-scoofy.itch.io/brewmaster-seige'
