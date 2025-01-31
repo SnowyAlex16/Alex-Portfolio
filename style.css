@@ -231,7 +231,7 @@ section{
     transform: translateY(-10px)scale(1.02);
 }
 .project-card img{
-    display: flex;
+    transform: scale(0.5);
     width: 10vw;
     border-radius: 1rem;
 }
