@@ -207,8 +207,8 @@ section{
     background: linear-gradient(to bottom,rgb(84, 196, 143), rgb(136, 20, 172));
 }
 .projects-grid{
-    display: flex;
-    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
     gap: 2rem;
 }
 .project-card{
