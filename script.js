@@ -8,10 +8,7 @@ menuIcon.onclick = () => {
     navLinks.classList.toggle('active')
 }
 
-function toGraphicsYt1(){
-    const url = 'https://youtu.be/l84rPQ4s50o'
-    window.open(url)
-}
+
 function toCYt(){
     const url = 'https://youtu.be/l84rPQ4s50o'
     window.open(url);
@@ -22,5 +19,9 @@ function toItch(){
 }
 function DownloadCV() {
     const url = `Alexandre Kouda.pdf`
+    window.open(url)
+}
+function toGraphicsYt1{
+    const url = 'https://youtu.be/l84rPQ4s50o'
     window.open(url)
 }
