@@ -12,15 +12,15 @@ function DownloadCV() {
     const url = `Alexandre Kouda.pdf`;
     window.open(url);
 }
-function toGraphicsYt1{
+function toGraphicsYt1(){
     const url = 'https://youtu.be/l84rPQ4s50o';
     window.open(url);
 }
-function toItch{
+function toItch(){
     const url = 'https://the-scoofy.itch.io/brewmaster-seige'
     window.open(url)
 }
-function toCYt{
+function toCYt(){
     const url = 'https://youtu.be/ieL8A9HKIfQ'
     window.open(url);
 }
