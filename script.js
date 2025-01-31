@@ -26,3 +26,7 @@ function toItch(){
     const url = 'https://the-scoofy.itch.io/brewmaster-seige';
     window.open(url);
 }
+function toItch2(){
+    const url = 'https://itch.io/profile/patienceeditz';
+    window.open(url);
+}
